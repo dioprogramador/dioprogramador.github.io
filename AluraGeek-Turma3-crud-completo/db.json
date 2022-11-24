@@ -1,0 +1,36 @@
+{
+  "produto": [
+    {
+      "name": "Alura",
+      "imageUrl": "https://avatars.githubusercontent.com/u/4975968?s=280&v=4",
+      "price": "100.00",
+      "id": 1,
+      "alt": "Product",
+      "section": "Star Wars",
+      "description": "Voluptas voluptatum quibusdam similique, class debitis alias maecenas eveniet ridiculus, facilis fusce! Ullam conubia? Sociis, minima malesuada habitasse distinctio sequi aliqua malesuada. Quisque deleniti proin expedita, aliquid litora. Iste recusandae? Commodo, quia ridiculus doloribus vero dictum? Penatibus donec placeat faucibus, dolorum do. Animi porta anim magnam"
+    },
+    {
+      "name": "Oracle",
+      "imageUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAARMAAAC3CAMAAAAGjUrGAAAA8FBMVEX4AAD////2AADvAAD8///yAADsAADvd3btbnD61tjpAAD5///7AADyw8LwAAD4AAPjAADqk5HwpqXqnZ7v///zvr3xX1nwcnDrQDzvJCLtcWz0bXHwb3D1bGvmKSTkdXfufoDreG7sUlX0PTXrhYbqMTT69e331M7mMDjmWVnnfIHib2z77+v76NfwxLXlWmL6/vXyraH32dLyvsfvxMf/8+XpQ0Dvj5PrWFvonY345+Hwt7bvt6TdDQ7pSEf4tLTbJSb75ujykIj1paj++f/yhXbhY2Xmlpjfm5b+3+P46PHwZl/83tD80t/uXmzwd4AUHCD+AAADvUlEQVR4nO3XbVfiRhQH8Hm6I8yEZBARocJKRJAuKlKqNqhdke6Watvv/216k6Cnfddj99Ry+v/lDZO5yTl3cucBIQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAODrUBEpbfdbrQo7PDywglS71al8c8ha3Z6KYxEpjvlw5CgRNkmUcvutwzy80u8ddFKKk/xFJLQQLm11845O5dgOTkjRe6f3NkrpwdBIKY2RXsrRqY3GXpq94pY3datEoiL1rdnb5dAojuzHieEOyddZqJvzOCpflJC6yKTf4xcZOXWX5syK5H1ze6Mktg0vJ6NaYSb98CAay1Wz9t2craWp2ESLKHzv/eqKi0HQQMrVvIgepaLumyTi/EWRVl3jJ2XPvCOuzTmReu/03oTUjfc/BKVJMTp59lWdmiwQxdzUl36kBEVhsVet+ZETSlx5fxtUEc0BdV8jVRRKLNpTWbsjm9/XPB/vXTlY20fpmv+RhEpyJKi3kvtjOQkqSkiTvjcTRxSl0qSfVvJIJ7SQc62IivDEXvumUEXqiarLWRBUjFZMxIXDIe+d3tu4lUxffnOpU1PWU/ngFNcJf/ylmdkoCplfWGqYYVvrzFRen1U8Ds2X+RGPTPVxt/S4VNs5bUpBrtovvyP+vA1/m3Kd/HTZYIuhGfCXX5pVWxGPzK0LD/L+JTz585hoOuMlmldnmfvME+7fz+VrcRM5fm2oRDcN10kWTjKZp2eaVoje1Cyd1fRZyhuX+dc6+cuYEHGdfGl8yYeysSS1rfMmp2uStw5RpMDb6p2XN2OeOxSq3sx/3teabM1XP2brLFt7n7mFrNqo3GQ3Y7KZJqpuZiHajJDVYnsnT0Jjb3YDlwGz4WrtZzY1wyCUq5nhhRVaPUm57x68LK7rT1OzuAuuCHe67hebZ50OQzPvbRp2azcdkZc876cmG82qbLSWe5NTMTa/WF5ZeCM2A6d4tiycOnl66nSfGmbaPvJmWC09p3U5qf5aNmb9sfebntlzP97eOhFRrD9MfLEw5kfT856iCzm0xXn+cip37aNf3UW8xbhIkDsz5+63tS8XUrkOO/miWraG2t7M8jMs8w9Bv3di/0B+oLBpf6fQObH8H6XX79o4P6yozu+D453WPcWcYWJ5ETnt79zpcFWG94+t7fZ3Ns8e8JPxQaXsuRJbvRn/bf+LJAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA4L/iD66ISGE5xb8lAAAAAElFTkSuQmCC",
+      "price": "100.00",
+      "id": 3,
+      "alt": "Product",
+      "section": "Star Wars",
+      "description": "Voluptas voluptatum quibusdam similique, class debitis alias maecenas eveniet ridiculus, facilis fusce! Ullam conubia? Sociis, minima malesuada habitasse distinctio sequi aliqua malesuada. Quisque deleniti proin expedita, aliquid litora. Iste recusandae? Commodo, quia ridiculus doloribus vero dictum? Penatibus donec placeat faucibus, dolorum do. Animi porta anim magnam"
+    },
+    {
+      "name": "One",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlpa9JUDglJ_p5ecd3wZYJ6oNVkH-5dA-lS9zUZ0wyMvheUBgXnbKWhw44XtV1eYDUQjo&usqp=CAU",
+      "price": "100.00",
+      "description": "Voluptas voluptatum quibusdam similique, class debitis alias maecenas eveniet ridiculus, facilis fusce! Ullam conubia? Sociis, minima malesuada habitasse distinctio sequi aliqua malesuada. Quisque deleniti proin expedita, aliquid litora. Iste recusandae? Commodo, quia ridiculus doloribus vero dictum? Penatibus donec placeat faucibus, dolorum do. Animi porta anim magnam",
+      "id": 4
+    },
+    {
+      "name": "Alurer",
+      "imageUrl": "https://avatars.githubusercontent.com/u/4975968?s=280&v=4",
+      "price": "100",
+      "id": 6,
+      "description": "undefined"
+    }
+  ]
+}
